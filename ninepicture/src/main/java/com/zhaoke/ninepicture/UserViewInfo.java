@@ -16,6 +16,7 @@ import com.previewlibrary.enitity.IThumbViewInfo;
 public class UserViewInfo implements IThumbViewInfo {
 
     private String url;  //图片地址
+
     private Rect mBounds; // 记录坐标
     private String user = "用户字段";
      private String videoUrl;
